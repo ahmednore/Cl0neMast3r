@@ -63,7 +63,7 @@ pip install -r requirements.txt
 ## Version:
 
 - Current version: ```1.0```
-You can check versions history from [Here](https://github.com/Abdulraheem30042/Cl0neMast3r/blob/master/Changelog.md)
+
 
 
 ## Coder:
